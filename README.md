@@ -1,6 +1,6 @@
 # data-science-homework
 
-Assessment for Data / Growth Science role at Eaze.
+Assessment for Data Science roles.
 
 <br />
 
@@ -14,7 +14,7 @@ How do I take this assessment?
   2. Answer the questions below by filling out the files in the solutions folder.  
   3. Zip your solutions folder.  
       ```zip -r solutions.zip solutions```  
-  4. Email ```solutions.zip``` to ```atilley@eaze.com``` and ```shri@eaze.com``` (or your recruiter).
+  4. Email ```solutions.zip``` to ```tilleyand@gmail.com``` (or your recruiter).
   5. You'll receive an email with your results.
       
 *Important Note: Questions 4 and 5 can both be completed in either R or Python. If you fill out both the R and Python 
@@ -127,5 +127,5 @@ Write your function in question_5.r or question_5.py.
 
 <br />
 
-If anything on this assessment is unclear, please email questions to ```atilley@eaze.com```.
+If anything on this assessment is unclear, please email questions to ```tilleyand@gmail.com```.
 
