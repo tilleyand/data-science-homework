@@ -10,7 +10,7 @@ Expected completion time: 3 hours. Note that the time next to each question is n
 
 How do I take this assessment?
   1. Clone this repo onto your local machine.  
-      ```git clone https://github.com/eaze/data-science-homework.git```
+      ```git clone https://github.com/tilleyand/data-science-homework.git```
   2. Answer the questions below by filling out the files in the solutions folder.  
   3. Zip your solutions folder.  
       ```zip -r solutions.zip solutions```  
